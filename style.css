@@ -1,0 +1,132 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+.half-part{
+    width: 500px;
+    float: left;
+    margin-top: 50px;
+}
+.half-part img{
+    width: 500px;
+}
+.txt{
+    margin-left: 200px;
+    margin-top: 100px;
+}
+.half-part h2{
+    font-weight: 500;
+}
+.half-part h1{
+    font-size: 40px;
+    color: #e04262;
+}
+.half-part a{
+    text-decoration: none;
+    width: 100px;
+    padding: 10px 40px;
+    background-image: linear-gradient(45deg, #e04262, #dd657d);
+    color: #ffff;
+    border-radius: 5px;
+}
+.top-section{
+    background-image: url("img/header-bg.png");
+    background-repeat: no-repeat;
+    height: 700px;
+}
+.imge{
+    margin-left: 150px;
+}
+.txtx{
+    margin-left: 80px;
+    margin-top: 200px;
+}
+.mid-section{
+    background-image: url("img/biography-bg.png");
+    background-repeat: no-repeat;
+    height: 700px;
+}
+.divimg img{
+    width: 300px;
+    float: left;
+    margin-left: 50px;
+}
+.main-img{
+    position: relative;
+    top: 200px;
+    left: 120px;
+}
+.work h1{
+    font-weight: 600;
+    text-align: center;
+    position: relative;
+    top: 100px;
+}
+.work{
+    background-image: url("img/latest-work-bg.png");
+    background-repeat: no-repeat;
+    height: 500px;
+}
+.work{
+    background-image: url(img/latest-work-bg.png);
+    background-repeat: no-repeat;
+    height: 600px;
+}
+.text h1{
+    font-weight: 600;
+    font-size: 30px;
+    text-align: center;
+    position: relative;
+    top: 30px;
+}
+.text h2{
+    font-size: 20px;
+    position: relative;
+    text-align: center;
+    top: 50px;
+}
+.text h3{
+    font-size: 15px;
+    position: relative;
+    text-align: center;
+    top: 55px;
+}
+.text p{
+    text-align: center;
+    position: relative;
+    top: 60px;
+}
+.last-text{
+    height: 100px;
+    width: 600px;
+    margin: auto;
+    background-image: linear-gradient(45deg, #ff6fb7, #f7007b);
+    position: relative;
+    top: 100px;
+    border-radius: 10px;
+}
+.last-text h2{
+    position: relative;
+    top: 10px;
+    color: white;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 500;
+}
+.last-text h1{
+    text-align: center;
+    position: relative;
+    top: 15px;
+    color: white;
+    font-size: 30px;
+    font-weight: 500;
+}
+.foot-section{
+    height: 500px;
+    background-image: url(img/footer-bg.png);
+    background-repeat: no-repeat;
+}
+footer{
+    text-align: center;
+}
